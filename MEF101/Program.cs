@@ -131,7 +131,6 @@ namespace MEF101
 		static void Main(string[] args)
 		{
 			//Basics();
-
 			CreationPolicies();
 		}
 

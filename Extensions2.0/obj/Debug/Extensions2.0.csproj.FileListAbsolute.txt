@@ -1,0 +1,10 @@
+C:\Users\daksh\OneDrive\Documents\Dakshin\Code workspaces\dotnet workspace\Extensions2.0\bin\Debug\Extensions2.0.dll
+C:\Users\daksh\OneDrive\Documents\Dakshin\Code workspaces\dotnet workspace\Extensions2.0\bin\Debug\Extensions2.0.pdb
+C:\Users\daksh\OneDrive\Documents\Dakshin\Code workspaces\dotnet workspace\Extensions2.0\obj\Debug\Extensions2.0.csproj.AssemblyReference.cache
+C:\Users\daksh\OneDrive\Documents\Dakshin\Code workspaces\dotnet workspace\Extensions2.0\obj\Debug\Extensions2.0.csproj.CoreCompileInputs.cache
+C:\Users\daksh\OneDrive\Documents\Dakshin\Code workspaces\dotnet workspace\Extensions2.0\obj\Debug\Extensions2.0.dll
+C:\Users\daksh\OneDrive\Documents\Dakshin\Code workspaces\dotnet workspace\Extensions2.0\obj\Debug\Extensions2.0.pdb
+C:\Users\daksh\OneDrive\Documents\Dakshin\Code workspaces\dotnet workspace\Extensions2.0\bin\Debug\MEF101.exe
+C:\Users\daksh\OneDrive\Documents\Dakshin\Code workspaces\dotnet workspace\Extensions2.0\bin\Debug\MEF101.pdb
+C:\Users\daksh\OneDrive\Documents\Dakshin\Code workspaces\dotnet workspace\Extensions2.0\bin\Debug\MEF101.exe.config
+C:\Users\daksh\OneDrive\Documents\Dakshin\Code workspaces\dotnet workspace\Extensions2.0\obj\Debug\Extensions2.0.csproj.CopyComplete
